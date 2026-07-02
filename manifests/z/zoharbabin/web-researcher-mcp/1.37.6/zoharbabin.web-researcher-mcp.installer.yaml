@@ -12,7 +12,7 @@ Installers:
       - RelativeFilePath: web-researcher-mcp.exe
         PortableCommandAlias: web-researcher-mcp
     InstallerUrl: https://github.com/zoharbabin/web-researcher-mcp/releases/download/v1.37.6/web-researcher-mcp_1.37.6_windows_amd64.zip
-    InstallerSha256: 1b0e424e0a13b19dd8c1c9e9c5b5f5314387282c8480ba757ba0cf638bfee8c9
+    InstallerSha256: df1752c67da7fce1368f9a994ef13fdacd5a9b9225970e324efe34ff4dcae61f
     UpgradeBehavior: uninstallPrevious
 ManifestType: installer
 ManifestVersion: 1.12.0
